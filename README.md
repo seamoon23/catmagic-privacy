@@ -1,2 +1,2 @@
-# catmagic-privacy
-app use page
+# 개인정보처리방침
+본 앱은 사용자의 개인 정보를 수집, 저장, 공유하지 않습니다.
